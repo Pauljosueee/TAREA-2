@@ -64,7 +64,7 @@ Para realizar esta práctica, el estudiante necesita tener conocimientos de:
 **Paso 2:** Verificar contenedores en ejecución.
 
 **Figura 1-2.** Verificacion 
-![Verificar contenedores](evidencias/verficacion.png)
+![Verificar contenedores](evidencias/verificacion.png)
 
 **Paso 3:** Copiar archivo index.html al host.
 
